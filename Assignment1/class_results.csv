@@ -1,0 +1,6 @@
+name,age,score,grade,passed
+Joseph,25,85,A,True
+Freeman,30,66,B,True
+Elijah,28,78,B,True
+Klaus,32,48,D,False
+Rebekah,27,33,F,False
